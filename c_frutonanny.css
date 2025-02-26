@@ -1,0 +1,143 @@
+.c_frutonanny-frame {
+  width: 100%;
+  overflow: hidden;
+  max-width: 2168px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #fff;
+}
+
+.c_frutonanny-rectangle,
+.c_frutonanny-rectangle1 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 2168px;
+}
+
+.c_frutonanny-rectangle1 {
+  max-width: 433px;
+}
+
+.c_frutonanny-text {
+  width: 100%;
+  max-width: 740px;
+  margin-top: 0;
+  min-height: 125px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_frutonanny-text1,
+.c_frutonanny-text2 {
+  color: #000;
+  font-size: 32px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Instrument Sans",sans-serif;
+  font-weight: 500;
+  line-height: 42px;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_frutonanny-frame1 {
+  gap: 41px;
+  width: 100%;
+  max-width: 2217px;
+  box-sizing: border-box;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.c_frutonanny-text3,
+.c_frutonanny-text4 {
+  margin-top: 0;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.c_frutonanny-text3 {
+  width: 100%;
+  max-width: 2216.690185546875px;
+  min-height: 79px;
+}
+
+.c_frutonanny-text4 {
+  color: #023748;
+  font-size: 94px;
+  font-style: normal;
+  font-family: "Instrument Sans",sans-serif;
+  font-weight: 600;
+  line-height: 120px;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_frutonanny-frame2,
+.c_frutonanny-frame3 {
+  gap: 126px;
+  width: 100%;
+  max-width: 2217px;
+  box-sizing: border-box;
+  align-items: flex-end;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.c_frutonanny-frame3 {
+  gap: 30px;
+  display: flex;
+  position: relative;
+  max-width: 1808px;
+  align-items: center;
+}
+
+.c_frutonanny-text5,
+.c_frutonanny-text6 {
+  margin-top: 0;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.c_frutonanny-text5 {
+  width: 100%;
+  max-width: 100%;
+  min-height: 79px;
+}
+
+.c_frutonanny-text6 {
+  color: #023748;
+  font-size: 94px;
+  font-style: normal;
+  font-family: "Instrument Sans",sans-serif;
+  font-weight: 600;
+  line-height: 120px;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_frutonanny-frame4 {
+  gap: 85px;
+  width: 100%;
+  display: flex;
+  position: relative;
+  max-width: 1808px;
+  box-sizing: border-box;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+
+.c_frutonanny-rectangle2 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 2168px;
+}
